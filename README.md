@@ -1,4 +1,4 @@
-# Привет! Я [Твое Имя] 👋
+# Привет! Я LoodikVibe 👋
 ### ReactJS & Fullstack Developer | AI-Driven Engineer
 
 Я специализируюсь на создании быстрых, доступных и масштабируемых веб-приложений. В работе придерживаюсь философии **"AI-first workflow"**, используя возможности **Cursor AI** для написания чистого и эффективного кода.
@@ -48,7 +48,7 @@
 
 ### 📫 Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vibecoding_tg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ТВОЙ_ЛИНКЕДИН)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LoodikVibe)
 
 ---
 <p align="center">
